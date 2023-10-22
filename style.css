@@ -4,8 +4,28 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-body{
-    background: #262a2f
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(90deg, #83e0f1, #0f98c2);
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 56px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+p {
+    font-size: 20px;
+    margin: 20px 0;
 }
 .container{
     width: 400px;
